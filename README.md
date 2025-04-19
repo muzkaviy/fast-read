@@ -1,1 +1,1 @@
-Fast Read Exercice App
+Fast Read Exercise App
